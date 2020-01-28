@@ -16,7 +16,7 @@ White, R. D. Youth Gangs, Violence and Social Respect: Exploring the Nature of P
 ## Brainstorming notes
 
 #### Ideas:
-7 general ideas, 1 is my current top choice based on interest and data availability 
+7 general ideas, 1 is my current top choice based on interest and data availability
 ![ideas](exercises/images/ideas.jpg)
 
 #### Data sources:
