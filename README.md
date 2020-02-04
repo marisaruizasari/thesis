@@ -6,12 +6,11 @@
 #### Research statement:
 I'm visualizing outcomes from alternative urban gun violence reduction strategies in low-income communities of color ---> because I want to find out if these strategies have an impact on citywide crime ---> In order to help my reader understand why new strategies are needed to address the urban gun violence crisis in the US
 
----
 
 # Outline
 
 ## Introduction to urban gun violence in the US
-------
+
 
 #### Types of gun violence in the US  - homicide, suicide, domestic violence, gun accidents
 
@@ -27,7 +26,6 @@ I'm visualizing outcomes from alternative urban gun violence reduction strategie
 	- Primarily young men of color
 
 ## What are traditional urban gun violence strategies, why haven't they worked, and what are the consequences?
-------
 
 #### Policing & carceral state,
 
@@ -40,7 +38,6 @@ I'm visualizing outcomes from alternative urban gun violence reduction strategie
 #### Gun policy
 
 ## What are alternative strategies and how do they differ in their approach to gun violence reduction?
-------
 
 #### Walk through of models/approaches using examples of individual cases / "profiles"
 
@@ -52,7 +49,6 @@ I'm visualizing outcomes from alternative urban gun violence reduction strategie
 #### What role does gun policy play in this? How do these approaches complement policy change? Why are they needed in addition to policy change?
 
 ## Have these alternative strategies had citywide impacts on urban gun violence?
-------
 
 #### Case studies and analysis of crime rates over time including homicide rates, gun assaults etc.
 
@@ -63,11 +59,9 @@ I'm visualizing outcomes from alternative urban gun violence reduction strategie
 #### What about trends in non-gun related crimes? Theft, car break ins etc.
 
 ## Conclusion
-------
 
 #### Recap of findings, key takeaways for reader
 
----
 
 # Data Sources
 
