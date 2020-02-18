@@ -1,7 +1,7 @@
 # Exercise 2: Form
 
 | Overview        | Section 1       | Section 2       | Section 3       |    
-| --------------- | --------------- | --------------- |
+| --------------- | --------------- | --------------- | --------------- |
 | ![](exercises/form-assets/Overview-L.png)  | ![](exercises/form-assets/Section-1L.png) | ![](exercises/form-assets/Section-2L.png) | ![](exercises/form-assets/Section-3L.png) |
 
 <br>
