@@ -2,7 +2,7 @@
 
 ### Overview
 
-<img src="exercises/form-assets/Overview-L" width="300px"/>
+<img src="exercises/form-assets/Overview-L.png" width="300px"/>
 
 
 
