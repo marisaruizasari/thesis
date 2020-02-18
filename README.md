@@ -1,3 +1,30 @@
+# Exercise 2: Form
+
+### Overview
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="736" viewBox="0 0 414 736">
+  <defs>
+    <clipPath id="clip-Overview">
+      <rect width="414" height="736"/>
+    </clipPath>
+  </defs>
+  <g id="Overview" clip-path="url(#clip-Overview)">
+    <rect width="414" height="736" fill="#fff"/>
+    <g id="Group_130" data-name="Group 130">
+      <path id="Path_48" data-name="Path 48" d="M0,0H414V36H0Z" fill="#727272"/>
+      <text id="Storyboard_Overview" data-name="Storyboard Overview" transform="translate(20 5)" fill="rgba(255,255,255,0.99)" font-size="20" font-family="HKGrotesk-Bold, HK Grotesk" font-weight="700"><tspan x="85.97" y="20">Storyboard Overview</tspan></text>
+    </g>
+    <text id="Who_is_your_audience_Readers_interested_and_supportive_of_urban_equity_and_criminal_justice_reform_who_don_t_know_much_about_gun_violence_in_the_US_or_what_s_being_done_to_address_it_in_communities_of_color._Could_be_community_members_or_policy_makers_c" data-name="Who is your audience?
+
+Readers interested and supportive of urban equity and criminal justice reform who don’t know much about gun violence in the US or what’s being done to address it in communities of color. Could be community members or policy makers (c" transform="translate(50 149)" fill="#707070" font-size="18" font-family="HKGrotesk-Bold, HK Grotesk" font-weight="700"><tspan x="0" y="18">Who is your audience?</tspan><tspan font-size="15" font-family="HKGrotesk-Regular, HK Grotesk" font-weight="400"><tspan x="0" y="38"></tspan><tspan x="0" y="57">Readers interested and supportive of urban </tspan><tspan x="0" y="76">equity and criminal justice reform who don’t </tspan><tspan x="0" y="95">know much about gun violence in the US or </tspan><tspan x="0" y="114">what’s being done to address it in </tspan><tspan x="0" y="133">communities of color. Could be community </tspan><tspan x="0" y="152">members or policy makers (city council </tspan><tspan x="0" y="171">members for example).</tspan><tspan x="0" y="190"></tspan></tspan><tspan x="0" y="212">How is your audience reading or </tspan><tspan x="0" y="235">encounter your project?</tspan><tspan font-size="15" font-family="HKGrotesk-Regular, HK Grotesk" font-weight="400"><tspan x="0" y="255"></tspan><tspan x="0" y="274">Web based - can be viewed on mobile, reads </tspan><tspan x="0" y="293">like a data journalism piece.</tspan><tspan x="0" y="312"></tspan></tspan><tspan x="0" y="334">What does your project ask of your </tspan><tspan x="0" y="357">audience to do?</tspan><tspan font-size="15" font-family="HKGrotesk-Regular, HK Grotesk" font-weight="400"><tspan x="0" y="377"></tspan><tspan x="0" y="396">Scroll and read.</tspan><tspan x="0" y="415"></tspan></tspan><tspan x="0" y="437">What does your audience learn and </tspan><tspan x="0" y="460">take away from their user experience?</tspan><tspan font-size="15" font-family="HKGrotesk-Regular, HK Grotesk" font-weight="400"><tspan x="0" y="480"></tspan><tspan x="0" y="499">They learn about urban gun violence in the US </tspan><tspan x="0" y="518">and why alternative strategies could be a </tspan><tspan x="0" y="537">solution to reducing violence.</tspan><tspan x="0" y="556"></tspan></tspan></text>
+    <text id="Urban_Gun_Violence_Reduction_in_the_US" data-name="Urban Gun Violence Reduction in the US" transform="translate(50 66)" fill="#464242" font-size="25" font-family="HKGrotesk-Bold, HK Grotesk" font-weight="700"><tspan x="0" y="25">Urban Gun Violence </tspan><tspan x="0" y="56">Reduction in the US</tspan></text>
+  </g>
+</svg>
+
+
+
+
+
 
 # Exercise 1: Research Question
 
