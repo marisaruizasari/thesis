@@ -1,13 +1,12 @@
 # Exercise 2: Form
 
+<img src="exercises/form-assets/Overview-L.png" width="150px" style="display: inline"/>
 
-<img src="exercises/form-assets/Overview-L.png" width="150px"/>
+<img src="exercises/form-assets/Section-1L.png" width="150px" style="display: inline"/>
 
-<img src="exercises/form-assets/Section-1L.png" width="150px"/>
+<img src="exercises/form-assets/Section-2L.png" width="150px" style="display: inline"/>
 
-<img src="exercises/form-assets/Section-2L.png" width="150px"/>
-
-<img src="exercises/form-assets/Section-3L.png" width="150px"/>
+<img src="exercises/form-assets/Section-3L.png" width="150px" style="display: inline"/>
 
 <br>
 
