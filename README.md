@@ -4,9 +4,7 @@
 ---
 <br>
 
-| Overview        | Section 1       | Section 2       | Section 3       |    
-| --------------- | --------------- | --------------- | --------------- |
-| ![](exercises/form-assets/Overview-L.png) <br><br><br><br><br><br><br><br><br><br> <br><br><br><br><br> <br><br><br><br><br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> | ![](exercises/form-assets/Section-1L.png) | ![](exercises/form-assets/Section-2L.png) <br><br><br><br><br><br><br><br> | ![](exercises/form-assets/Section-3L.png) |
+<img src="exercises/form-assets/All-L.png" width="700px"/>
 
 <br><br>
 
