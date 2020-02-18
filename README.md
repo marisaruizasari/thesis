@@ -2,10 +2,19 @@
 
 ### Overview
 
-<img src="exercises/form-assets/Overview-L.png" width="300px"/>
+<img src="exercises/form-assets/Overview-L.png" width="500px"/>
 
+### Section 1
 
+<img src="exercises/form-assets/Section-1L.png" width="500px"/>
 
+### Section 2
+
+<img src="exercises/form-assets/Section-2L.png" width="500px"/>
+
+### Section 3
+
+<img src="exercises/form-assets/Section-3L.png" width="500px"/>
 
 
 
