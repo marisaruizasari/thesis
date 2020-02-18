@@ -8,6 +8,10 @@
 
 <img src="exercises/form-assets/Section-3L.png" width="150px" style="display: inline"/>
 
+Overview                   |  Section 1
+:-------------------------:|:-------------------------:
+![](exercises/form-assets/Overview-L.png)  |  ![](exercises/form-assets/Section-1L.png)
+
 <br>
 
 <img src="exercises/form-assets/Overview-L.png" width="500px"/>
