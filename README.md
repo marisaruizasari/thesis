@@ -4,7 +4,7 @@
 ---
 <br>
 
-<img src="exercises/form-assets/All-L.png" width="700px"/>
+<img src="exercises/form-assets/All-L.png" width="850px"/>
 
 <br><br>
 
