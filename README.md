@@ -3,9 +3,32 @@
 ### Prototype 1
 [view in adobe xd preview](https://xd.adobe.com/view/b1b28de9-7908-4396-7289-5bea47330582-c783/?fullscreen&hints=off)
 
+<img src="exercises/prototype-assets/1.1.png" width="500px"/>
+<img src="exercises/prototype-assets/1.2.png" width="500px"/>
+<img src="exercises/prototype-assets/1.3.png" width="500px"/>
+<img src="exercises/prototype-assets/1.4.png" width="500px"/>
+<img src="exercises/prototype-assets/1.5.png" width="500px"/>
+<img src="exercises/prototype-assets/1.6.png" width="500px"/>
+<img src="exercises/prototype-assets/1.7.png" width="500px"/>
+<img src="exercises/prototype-assets/1.8.png" width="500px"/>
+<img src="exercises/prototype-assets/1.9.png" width="500px"/>
+<img src="exercises/prototype-assets/1.10.png" width="500px"/>
+
+
 ### Prototype 2
 
 [view in adobe xd preview](https://xd.adobe.com/view/f6b00060-7fb7-4a85-6265-118c4762c34d-8081/)
+
+<img src="exercises/prototype-assets/2.1.png" width="500px"/>
+<img src="exercises/prototype-assets/2.2.png" width="500px"/>
+<img src="exercises/prototype-assets/2.3.png" width="500px"/>
+<img src="exercises/prototype-assets/2.4.png" width="500px"/>
+<img src="exercises/prototype-assets/2.5.png" width="500px"/>
+<img src="exercises/prototype-assets/2.6.png" width="500px"/>
+<img src="exercises/prototype-assets/2.7.png" width="500px"/>
+<img src="exercises/prototype-assets/2.8.png" width="500px"/>
+<img src="exercises/prototype-assets/2.9.png" width="500px"/>
+
 
 # Exercise 2: Form
 
