@@ -5,7 +5,7 @@
 
 ### Prototype 2
 
-[view in adobe xd preview](https://xd.adobe.com/view/b1b28de9-7908-4396-7289-5bea47330582-c783/?fullscreen&hints=off)
+[view in adobe xd preview](https://xd.adobe.com/view/759ea3b0-e856-4fbb-5a6d-da76f5a5e4dc-03af/?fullscreen&hints=off)
 
 # Exercise 2: Form
 
