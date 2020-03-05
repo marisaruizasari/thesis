@@ -17,7 +17,7 @@
 
 ### Prototype 2
 
-[view in adobe xd preview](https://xd.adobe.com/view/f6b00060-7fb7-4a85-6265-118c4762c34d-8081/)
+[view in adobe xd preview](https://xd.adobe.com/view/b1b28de9-7908-4396-7289-5bea47330582-c783/?fullscreen&hints=off)
 
 <img src="exercises/prototype-assets/2.1.png" width="500px"/>
 <img src="exercises/prototype-assets/2.2.png" width="500px"/>
