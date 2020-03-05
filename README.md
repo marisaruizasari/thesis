@@ -1,7 +1,7 @@
 # Exercise 3: Prototyping
 
 ### Prototype 1
-[view in adobe xd preview](https://xd.adobe.com/view/b1b28de9-7908-4396-7289-5bea47330582-c783/?fullscreen&hints=off)
+[view in adobe xd preview](https://xd.adobe.com/view/bc70fb99-dc4b-411f-6553-72d28f3aa227-ca41/?fullscreen&hints=off)
 
 <img src="exercises/prototype-assets/1.1.png" width="500px"/>
 <img src="exercises/prototype-assets/1.2.png" width="500px"/>
