@@ -1,4 +1,4 @@
-# Weapons of Mass Inequality
+# Weapons of Mass Injustice
 
 ### Visualizing the unequal impacts of gun violence and the search for peace in America’s cities
 
