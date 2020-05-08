@@ -18,5 +18,14 @@ Project Preview
 ![preview image](connections.png)
 ![preview image](movements2.png)
 
+#### Acknowledgements
+
+Deepest thank you to Daniel Sauter and Aaron Hill for your guidance and support.
+
+Jason Corburn, Amanda Fukutome, and the Advance Peace team for your hard work towards humanizing gun violence reduction – without you this thesis would not be possible.
+
+David Asari and Felix Buchholz, for your invaluable expertise and encouragement. 
+
+
 
 ###### Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design // May 2020
