@@ -17,6 +17,8 @@ Over the past decade, gun violence has risen to the forefront of the American po
 ![preview image](rates.gif)
 ![preview image](connections.png)
 ![preview image](animation.gif)
+![preview image](movements1.png)
+![preview image](movements2.png)
 
 
 ###### Submitted in partial fulfillment of the requirements for the degree of Master Science in Data Visualization at Parsons School of Design // May 2020
