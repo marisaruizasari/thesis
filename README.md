@@ -13,10 +13,10 @@ Over the past decade, gun violence has risen to the forefront of the American po
 Project Preview
 ------
 ![preview image](preview.png)
-![preview image](candles_text_dark.png)
-![preview image](arrest_graph.png)
-![preview image](connections.png)
-![preview image](movements2.png)
+![preview image](documentation/candles_text_dark.png)
+![preview image](documentation/arrest_graph.png)
+![preview image](documentation/connections.png)
+![preview image](documentation/movements2.png)
 
 #### Acknowledgements
 
