@@ -1,0 +1,103 @@
+{
+"type": "FeatureCollection",
+"features": [
+    { "type": "Feature", "properties": { "ID": "1", "TYPE": "Hybrid", "PROGRAM NAME": "Office of Neighborhood Safety, Richmond" }, "geometry": { "type": "Point", "coordinates": [ -122.356866, 37.939008 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "2", "TYPE": "Hybrid", "PROGRAM NAME": "Advance Peace, Sacramento" }, "geometry": { "type": "Point", "coordinates": [ -121.460088, 38.573462 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "3", "TYPE": "Hybrid", "PROGRAM NAME": "Advance Peace, Stockton" }, "geometry": { "type": "Point", "coordinates": [ -121.309090, 38.011153 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "4", "TYPE": "Group Violence Intervention", "PROGRAM NAME": "GVI, Boston" }, "geometry": { "type": "Point", "coordinates": [ -71.115724, 42.281569 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "5", "TYPE": "Group Violence Intervention", "PROGRAM NAME": "GVI, Cincinnati" }, "geometry": { "type": "Point", "coordinates": [ -84.519125, 39.142647 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "6", "TYPE": "Group Violence Intervention", "PROGRAM NAME": "GVI, Stockton" }, "geometry": { "type": "Point", "coordinates": [ -121.309090, 38.011153 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "7", "TYPE": "Group Violence Intervention", "PROGRAM NAME": "GVI, Lowell" }, "geometry": { "type": "Point", "coordinates": [ -71.322055, 42.636969 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "8", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Jacksonville" }, "geometry": { "type": "Point", "coordinates": [ -81.688641, 30.371946 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Kansas City" }, "geometry": { "type": "Point", "coordinates": [ -94.519451, 39.126749 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Omaha" }, "geometry": { "type": "Point", "coordinates": [ -96.041432, 41.269586 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Chicago" }, "geometry": { "type": "Point", "coordinates": [ -87.666081, 41.922351 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Milwaukee" }, "geometry": { "type": "Point", "coordinates": [ -87.917314, 43.054294 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Washington DC" }, "geometry": { "type": "Point", "coordinates": [ -77.027632, 38.904200 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, New York City" }, "geometry": { "type": "Point", "coordinates": [ -73.941265,  40.700273 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Camden" }, "geometry": { "type": "Point", "coordinates": [ -75.117544,  39.928142 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Baltimore" }, "geometry": { "type": "Point", "coordinates": [ -76.628395, 39.301956 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, Durham" }, "geometry": { "type": "Point", "coordinates": [ -78.898654, 35.985079 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Cure Violence", "PROGRAM NAME": "Cure Violence, St. Louis" }, "geometry": { "type": "Point", "coordinates": [ -90.275057, 38.587030 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Beyond Violence, Richmond" }, "geometry": { "type": "Point", "coordinates": [ -122.339157, 37.956259 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Caught in the Crossfire, Oakland" }, "geometry": { "type": "Point", "coordinates": [ -122.238064, 37.799338 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Caught in the Crossfire, Los Angeles" }, "geometry": { "type": "Point", "coordinates": [ -118.304655, 34.070229 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "CHOICE, Salinas" }, "geometry": { "type": "Point", "coordinates": [ -121.642401, 36.688419 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Emergency Entry to Exit, Ventura" }, "geometry": { "type": "Point", "coordinates": [ -119.215831, 34.271810 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Sacramento Violence Intervention Program, Sacramento" }, "geometry": { "type": "Point", "coordinates": [ -121.479314, 38.553596 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Trauma to Triumph, San Jose" }, "geometry": { "type": "Point", "coordinates": [ -122.421466, 37.767993 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Wraparound Project, San Francsico" }, "geometry": { "type": "Point", "coordinates": [ -122.421466, 37.767993 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "At-Risk Intervention and Mentoring (AIM), Denver" }, "geometry": { "type": "Point", "coordinates": [ -104.978717, 39.730995 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Hartford Crisis Response Team, Hartfort" }, "geometry": { "type": "Point", "coordinates": [ -72.682491, 41.759792 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Violence Intervention Program, Savannah" }, "geometry": { "type": "Point", "coordinates": [ -81.104158, 32.038184 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Healing Hurt People, Chicago" }, "geometry": { "type": "Point", "coordinates": [ -87.677068, 41.838508 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Within Our Reach, Chicago" }, "geometry": { "type": "Point", "coordinates": [ -87.620763, 41.840555 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Prescription for Hope, Indianapolis" }, "geometry": { "type": "Point", "coordinates": [ -86.150612, 39.767034 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Capital Region Violence Intervention Program, Cheverly" }, "geometry": { "type": "Point", "coordinates": [ -76.914395, 38.926886 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Violence Prevention Program, Baltimore" }, "geometry": { "type": "Point", "coordinates": [ -76.597153, 39.308332 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Violence Intervention Advocacy Program at Boston Medical Center, Boston" }, "geometry": { "type": "Point", "coordinates": [ -71.073099, 42.334417 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Violence Intervention Advocacy Program at Massachusetts General Hospital, Boston" }, "geometry": { "type": "Point", "coordinates": [ -71.065750, 42.363424 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Violence Recovery Program, Boston" }, "geometry": { "type": "Point", "coordinates": [ -71.056106, 42.343759 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Next Step, Minneapolis" }, "geometry": { "type": "Point", "coordinates": [ -93.253241, 44.951241 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Interpersonal Violence Intervention Mentoring. St. Louis" }, "geometry": { "type": "Point", "coordinates": [ -90.226305, 38.676071 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "University Hospital Violence Intervention Program, Newark" }, "geometry": { "type": "Point", "coordinates": [ -74.174848,  40.726449 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Kings Against Violence Initiative, Brooklyn" }, "geometry": { "type": "Point", "coordinates": [ -73.933334, 40.672767 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Rochester Youth Violence Partnership, Rochester" }, "geometry": { "type": "Point", "coordinates": [ -77.614685, 43.182906 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Healing Hurt People, Portland" }, "geometry": { "type": "Point", "coordinates": [ -122.632363, 45.558495 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Gunshot Reoccurring Injury Prevention Services, Pittsburgh" }, "geometry": { "type": "Point", "coordinates": [ -79.955097, 40.450944 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Healing Hurt People, Philadelphia" }, "geometry": { "type": "Point", "coordinates": [ -75.138680, 39.992978 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Violence Intervention Program, Philadelphia" }, "geometry": { "type": "Point", "coordinates": [ -75.164528, 40.040029 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Injury and Violence Prevention Program at VCU Medical Center – formerly Bridging the Gap, Richmond" }, "geometry": { "type": "Point", "coordinates": [ -77.462365, 37.509391 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "MedStar Washington Hospital Center Community Violence Intervention Program – Formerly Smart Choices Save Lives, Washington DC" }, "geometry": { "type": "Point", "coordinates": [ -77.056471,  38.937322 ] } }
+    ,
+    { "type": "Feature", "properties": { "ID": "9", "TYPE": "Hospital Based Violence Intervention", "PROGRAM NAME": "Project Ujima, Milwaukee" }, "geometry": { "type": "Point", "coordinates": [ -87.963319, 43.093417 ] } }
+
+]
+}
